@@ -1,0 +1,15 @@
+C:\Users\borze\Desktop\ParsingService\MyParcer\bin\Debug\netcoreapp3.1\MyParcer.exe
+C:\Users\borze\Desktop\ParsingService\MyParcer\bin\Debug\netcoreapp3.1\MyParcer.deps.json
+C:\Users\borze\Desktop\ParsingService\MyParcer\bin\Debug\netcoreapp3.1\MyParcer.runtimeconfig.json
+C:\Users\borze\Desktop\ParsingService\MyParcer\bin\Debug\netcoreapp3.1\MyParcer.runtimeconfig.dev.json
+C:\Users\borze\Desktop\ParsingService\MyParcer\bin\Debug\netcoreapp3.1\MyParcer.dll
+C:\Users\borze\Desktop\ParsingService\MyParcer\bin\Debug\netcoreapp3.1\MyParcer.pdb
+C:\Users\borze\Desktop\ParsingService\MyParcer\obj\Debug\netcoreapp3.1\MyParcer.csprojAssemblyReference.cache
+C:\Users\borze\Desktop\ParsingService\MyParcer\obj\Debug\netcoreapp3.1\MyParcer.AssemblyInfoInputs.cache
+C:\Users\borze\Desktop\ParsingService\MyParcer\obj\Debug\netcoreapp3.1\MyParcer.AssemblyInfo.cs
+C:\Users\borze\Desktop\ParsingService\MyParcer\obj\Debug\netcoreapp3.1\MyParcer.dll
+C:\Users\borze\Desktop\ParsingService\MyParcer\obj\Debug\netcoreapp3.1\MyParcer.pdb
+C:\Users\borze\Desktop\ParsingService\MyParcer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\borze\Desktop\ParsingService\MyParcer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\borze\Desktop\ParsingService\MyParcer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\borze\Desktop\ParsingService\MyParcer\obj\Debug\netcoreapp3.1\MyParcer.csproj.CopyComplete

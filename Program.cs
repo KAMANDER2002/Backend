@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MyParcer.RuntimeGetParcer.GerParce;
+using System;
 
 namespace MyParcer
 {
@@ -6,7 +7,9 @@ namespace MyParcer
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            GetRequest request = new GetRequest("https://life.ru/");
+            request.getClientTimeEnter();
+            Console.WriteLine(request.answer);
         }
     }
 }
