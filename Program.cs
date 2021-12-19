@@ -7,9 +7,9 @@ namespace MyParcer
     {
         static void Main(string[] args)
         {
-            GetRequest request = new GetRequest("https://life.ru/");
+            GetRequest request = new GetRequest("https://a.pr-cy.ru/vk.com");
             request.Run();
-            Console.WriteLine();
+            Console.WriteLine(request.Response);
         }
     }
 }

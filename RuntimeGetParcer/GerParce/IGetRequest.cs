@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Net;
 using System.Text;
 
 namespace MyParcer.RuntimeGetParcer.GerParce
@@ -8,5 +9,6 @@ namespace MyParcer.RuntimeGetParcer.GerParce
     {
          string GetRun();
          void getClientTimeEnter();
+        public void Run();
     }
 }

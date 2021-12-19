@@ -32,14 +32,14 @@ namespace MyParcer.RuntimeGetParcer.GerParce
             StreamReader reader = new StreamReader(stream);
             answer = reader.ReadToEnd();
         }
-        public void Run(CookieContainer cookie)
+        public void Run()
         {
             Request = (HttpWebRequest)WebRequest.Create(_addres);
             Request.Method = "Get";
-            Request.CookieContainer = cookie;
+         
             Request.Proxy = Proxy;
             Request.Accept = Accept;
-            Request.Host = Host;
+           // Request.Host = Host;
             foreach (var pair in Headers)
             {
                 Request.Headers.Add(pair.Key, pair.Value);
@@ -51,8 +51,8 @@ namespace MyParcer.RuntimeGetParcer.GerParce
                 if(stream != null) { Response = new StreamReader(stream).ReadToEnd(); }
             }
             catch(Exception ex)
-            {   
-
+            {
+                Response = ex.Message;
             }
         }
         public string GetRun()
