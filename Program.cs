@@ -8,8 +8,8 @@ namespace MyParcer
         static void Main(string[] args)
         {
             GetRequest request = new GetRequest("https://life.ru/");
-            request.getClientTimeEnter();
-            Console.WriteLine(request.answer);
+            request.Run();
+            Console.WriteLine();
         }
     }
 }
